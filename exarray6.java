@@ -11,3 +11,13 @@ class exarray6 {
 System.out.println("\n");
 	}
 }
+
+/*
+int l;
+		double k ;
+		k = Math.random() * 100;
+		l = (int) k;
+		num[1] = l;
+		System.out.println("Index of num"+"["+1+"]"+" Result is : " + num[1]);
+
+		*/
